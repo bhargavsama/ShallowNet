@@ -1,1 +1,0 @@
-This is a program for classification of animal classes using shallow net architecture using Keras and Python.
